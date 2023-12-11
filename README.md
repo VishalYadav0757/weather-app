@@ -1,2 +1,3 @@
 # Weather Application
-Weather application made using Node.js
+
+Weather application made using Node.js.
